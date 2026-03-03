@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Simple Weather App</string>
+
+    <string name="hint_city_input">US City (ex: Rochester,NY,US)</string>
+    <string name="cta_search">Search</string>
+    <string name="cta_loading">Loading…</string>
+    <string name="message_enter_city">Enter a city (ex: Rochester,NY,US)</string>
+
+    <string name="error_no_internet">No internet connection (or VPN blocking the request).</string>
+    <string name="error_timeout">Network timeout. Please try again.</string>
+    <string name="error_api_key_rejected">API key rejected (401). Check your API key.</string>
+    <string name="error_rate_limited">Too many requests (429). Try again in a moment.</string>
+    <string name="error_server_generic">Server error (%1$d). Please try again.</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+
+    <string name="error_city_or_location">Enter a city or enable location to search by device location.</string>
+    <string name="label_idle">Enter a city and tap Search.</string>
+
+    <string name="hint_blank_uses_location">Tip: Leave the city blank and tap Search to use your current location.</string>
+</resources>
